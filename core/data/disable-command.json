@@ -1,0 +1,30 @@
+{
+  "6328370547184627": {
+    "commands": {
+      "admin": false
+    },
+    "categories": {
+      "Admin": false
+    }
+  },
+  "7519651594723638": {
+    "commands": {
+      "menu": false,
+      "adc": false,
+      "admin": false
+    },
+    "categories": {
+      "Admin": false,
+      "Tiện ích": false,
+      "Box chat": false,
+      "Game": false,
+      "AI": false
+    }
+  },
+  "6804616456270022": {
+    "commands": {},
+    "categories": {
+      "AI": false
+    }
+  }
+}

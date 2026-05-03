@@ -1,0 +1,58 @@
+[
+  {
+    "phien": 1,
+    "time": 1762234865993,
+    "result": {
+      "total": 15,
+      "result": "t",
+      "dice1": 3,
+      "dice2": 6,
+      "dice3": 6,
+      "isJackpot": false
+    },
+    "dice": [
+      3,
+      6,
+      6
+    ]
+  },
+  {
+    "phien": 2,
+    "time": 1762234926141,
+    "result": null
+  },
+  {
+    "phien": 3,
+    "time": 1762256780449,
+    "result": {
+      "total": 16,
+      "result": "t",
+      "dice1": 6,
+      "dice2": 4,
+      "dice3": 6,
+      "isJackpot": false
+    },
+    "dice": [
+      6,
+      4,
+      6
+    ]
+  },
+  {
+    "phien": 4,
+    "time": 1762256840750,
+    "result": {
+      "total": 11,
+      "result": "t",
+      "dice1": 4,
+      "dice2": 1,
+      "dice3": 6,
+      "isJackpot": false
+    },
+    "dice": [
+      4,
+      1,
+      6
+    ]
+  }
+]

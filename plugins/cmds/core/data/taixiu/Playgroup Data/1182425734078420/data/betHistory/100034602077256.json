@@ -1,0 +1,172 @@
+[
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 119000,
+    "phien": 34,
+    "time": 1762167424578,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 232050
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 1000000000,
+    "phien": 35,
+    "time": 1762167486561,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 1950000000
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "x",
+    "betAmount": 500000,
+    "phien": 36,
+    "time": 1762167579774,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "x",
+    "betAmount": 1000000000,
+    "phien": 37,
+    "time": 1762167610757,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 1950000000
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "x",
+    "betAmount": 899732278,
+    "phien": 38,
+    "time": 1762167695669,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 1754477942
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "x",
+    "betAmount": 500000,
+    "phien": 39,
+    "time": 1762167752548,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 3763977942,
+    "phien": 41,
+    "time": 1762167890473,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 78000,
+    "phien": 60,
+    "time": 1762172764288,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 152100
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 500000000,
+    "phien": 61,
+    "time": 1762172824142,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 1254678307,
+    "phien": 73,
+    "time": 1762187265661,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 68528,
+    "phien": 74,
+    "time": 1762187328085,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 133629
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 133000,
+    "phien": 75,
+    "time": 1762187381579,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 100000000,
+    "phien": 76,
+    "time": 1762187439973,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 195000000
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 195000000,
+    "phien": 77,
+    "time": 1762187516401,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 380250000
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "t",
+    "betAmount": 100000000,
+    "phien": 78,
+    "time": 1762187591916,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 195000000
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "x",
+    "betAmount": 100000000,
+    "phien": 79,
+    "time": 1762187651371,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 195000000
+  },
+  {
+    "senderID": "100034602077256",
+    "choice": "x",
+    "betAmount": 570250629,
+    "phien": 80,
+    "time": 1762187708329,
+    "processed": true,
+    "ket_qua": "thua",
+    "winAmount": 0
+  }
+]

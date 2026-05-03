@@ -1,0 +1,41 @@
+{
+  "defaultSettings": {
+    "enabled": true,
+    "settings": {
+      "autoReply": true,
+      "teachMode": true,
+      "responseDelay": 1000,
+      "minSimilarity": 0.3,
+      "maxResponsesPerMinute": 10,
+      "triggers": [
+        "bot",
+        "haru",
+        "simi",
+        "sim",
+        "hey",
+        "hello",
+        "hi",
+        "chào",
+        "xin chào",
+        "bạn",
+        "mày",
+        "tao",
+        "tôi"
+      ]
+    }
+  },
+  "globalSettings": {
+    "version": "2.0.0",
+    "lastUpdated": "2024-01-01T00:00:00.000Z",
+    "features": {
+      "smartReply": true,
+      "contextAware": true,
+      "multiLanguage": true,
+      "antiSpam": true,
+      "cooldown": true
+    }
+  },
+  "29636090796034658": {
+    "enabled": true
+  }
+}

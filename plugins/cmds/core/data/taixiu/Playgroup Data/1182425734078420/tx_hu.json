@@ -1,0 +1,12 @@
+{
+  "amount": 1126257174,
+  "lastWinner": {
+    "name": "Ngg Quốc",
+    "amount": 341383298
+  },
+  "contributionRate": {
+    "win": 0.05,
+    "lose": 0.1
+  },
+  "jackpotCondition": "3 số giống nhau. Đoán đúng tài/xỉu sẽ nhận được 35% tiền từ hũ (nếu nhiều người sẽ chia đều)"
+}

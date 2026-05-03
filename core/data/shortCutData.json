@@ -1,0 +1,62 @@
+{
+    "1182425734078420": [
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "61564114700108"
+            },
+            "output": "Tag cái máu lồn à {name}",
+            "file": "mp4",
+            "url": "https://files.catbox.moe/zul288.mp4"
+        }
+    ],
+    "784331854576255": [
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "61564114700108"
+            },
+            "output": "Tag con cặc à {name}",
+            "url": "cos"
+        }
+    ],
+    "32801704312761929": [
+        {
+            "short_type": {
+                "type": "join",
+                "senderID": "61564114700108"
+            },
+            "output": "🎀Chào mừng bạn {name} đã vào nhóm🎀",
+            "url": "cos"
+        },
+        {
+            "short_type": {
+                "type": "leave",
+                "senderID": "61564114700108"
+            },
+            "output": "🎀Bạn {name} đã cút khỏi nhóm🎀",
+            "url": "cos"
+        }
+    ],
+    "787627357592681": [
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "61578775403019"
+            },
+            "output": "oi vo day😀😀",
+            "file": "mp4",
+            "url": "https://files.catbox.moe/i3fc04.mp4"
+        },
+        {
+            "short_type": {
+                "type": "tag",
+                "senderID": "100049206451337"
+            },
+            "output": "Gọi chồng à cục cưng🐣",
+            "file": "mp4",
+            "url": "https://files.catbox.moe/kkctjy.mp4"
+        }
+    ],
+    "811471661839804": []
+}

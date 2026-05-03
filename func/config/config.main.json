@@ -1,0 +1,60 @@
+{
+    "facebookAccount": {
+        "email": "testicon3215@gmail.com",
+        "password": "Longeee123@",
+        "2FASecret": "NM4JRUT6BDSIC6MXXFKGT2O7ATCJS7XV",
+        "i_user": ""
+    },
+    "mqtt": {
+        "enable": true,
+        "timeRestartInHours": 1,
+        "delayStop": 2000
+    },
+    "DESIGN": {
+        "Theme": "Blue",
+        "Setup": {
+            "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Orange, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, Purple, Rainbow, and Hacker themes to enhance your terminal logs."
+        }
+    },
+    "FCA_Option": {
+        "listenEvents": true,
+        "updatePresence": true,
+        "logLevel": "silent",
+        "forceLogin": true,
+        "pauseLog": true,
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
+    },
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "adminOnly": false,
+    "commandDisabled": [
+        "dow1.js"
+    ],
+    "eventDisabled": [],
+    "DeveloperMode": false,
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "HaruBot 🤖",
+    "PREFIX": "!",
+    "BOXADMIN": "1167615858612066",
+    "NDH": [
+        "61564114700108",
+        "61575203132001",
+        "61574857936692"
+    ],
+    "ADMINBOT": [
+        "100094368344924",
+        "100090135171760",
+        "61564114700108"
+    ],
+    "APPSTATEPATH": "fbstate.json",
+    "version": "5.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    }
+}

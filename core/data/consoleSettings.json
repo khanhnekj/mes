@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "hideJson": true,
+  "hideMemory": false,
+  "hideVideoId": true,
+  "antiSpam": true,
+  "customFilters": [
+    "video_id",
+    "RSS:",
+    "MB",
+    "Giám sát"
+  ],
+  "whitelist": [
+    "ERROR",
+    "WARN",
+    "INFO",
+    "SUCCESS"
+  ]
+}

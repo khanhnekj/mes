@@ -1,0 +1,58 @@
+{
+  "61564114700108": {
+    "money": "0",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 0,
+    "isLocked": false
+  },
+  "100012127543928": {
+    "money": "0",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 0,
+    "isLocked": false
+  },
+  "100034602077256": {
+    "money": "0",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 1762108117977,
+    "isLocked": false
+  },
+  "100064728541006": {
+    "money": "0",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 0,
+    "isLocked": false
+  },
+  "61552336201971": {
+    "money": "0",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 0,
+    "isLocked": false
+  },
+  "61569045315469": {
+    "money": "0",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 0,
+    "isLocked": false
+  },
+  "61550238697213": {
+    "money": "2210583569",
+    "debt": "0",
+    "debtTime": 0,
+    "debtDays": 0,
+    "lastDaily": 0,
+    "isLocked": false
+  }
+}
